@@ -1,0 +1,8 @@
+source_repository_url: https://github.com/rails/rails.git
+target_repository_url: https://github.com/siman-man/railsguides.jp.git
+source_branch: master
+target_branch: master
+source_lang: en
+target_lang: ja
+paths:
+  guides/source/*.md: guides/source/ja
